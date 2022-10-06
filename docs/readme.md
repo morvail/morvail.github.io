@@ -30,3 +30,4 @@ _Ez a szoveg dolt_,__ez pedig felkover__
 |A    |B      |C         |
 |----:|:-----:|---------:|
 |Nagy |Lajos  |Cigany    |
+
