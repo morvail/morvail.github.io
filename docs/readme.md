@@ -1,29 +1,29 @@
-#lucky - kávézó
-##források
+# lucky - kávézó
+## források
     https://pixabay.com/hu/photos/tihany-m%c3%b3kus-r%c3%a1gcs%c3%a1l%c3%b3-vadvil%c3%a1g-7403355/
 
-##hivatkozások:
+## hivatkozások:
     1. Validálás:
     2. Hasznalt alkalmazasok
     3. Kép optimizalasa
     4. Képszerkesztes
 
 
-##automatikus felsorolas:
+## automatikus felsorolas:
     1. egy
     1. ketto
     1. harom
 
-##példakod: 
+## példakod: 
     A `<br>` a sortorest beloli
 
-##kodblokkok:
+## kodblokkok:
  ```css
     body{
         background-color: lightblue;
     }
 ```
-##kiemeles:
+## kiemeles:
 _Ez a szoveg dolt_,__ez pedig felkover__
 
 ##tablazat:
@@ -31,3 +31,4 @@ _Ez a szoveg dolt_,__ez pedig felkover__
 |----:|:-----:|---------:|
 |Nagy |Lajos  |Cigany    |
 
+### ez harmas szintu cimsor
